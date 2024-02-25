@@ -1,3 +1,7 @@
+---
+title: Portfolio
+---
+
 # Preface
 Please visit my [LinkedIn profile](https://linkedin.com/in/YawarRaza7349) for more information about me, including other projects I've contributed to. This page is a supplement that highlights smaller, visually-engaging and/or interactive applications I've written, some with live demos.
 
