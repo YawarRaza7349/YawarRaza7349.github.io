@@ -4,3 +4,5 @@ description:
   A showcase of some of the applications I've developed
 include:
   - README.md
+theme:
+  jekyll-theme-dinky
