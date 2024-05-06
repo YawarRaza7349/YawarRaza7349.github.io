@@ -3,6 +3,8 @@ title:
 description:
   A showcase of some of the applications I've developed
 include:
-  - README.md
+  - index.md
+  - projects.md
+  - creative.md
 theme:
-  jekyll-theme-dinky
+  jekyll-theme-time-machine
