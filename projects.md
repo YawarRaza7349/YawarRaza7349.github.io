@@ -1,4 +1,3 @@
-# Yawar Raza
 ## Projects
 ### Proofs About Particular Programs (Work in Progress)
 
@@ -86,7 +85,7 @@ Mar 2014 - May 2015
 - Technologies used include Unity2D, Processing, Processing.js, CoffeeScript, underscore.js, HTML, the DOM API, d3.js, AJAX, Web Workers, and Haskell.
 
 You can even try a few of them yourself!:
-https://yawarraza7349.github.io/
+https://YawarRaza7349.github.io/creative
 
 ### PokéNet
 
