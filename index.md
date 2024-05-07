@@ -1,8 +1,5 @@
 # Yawar Raza
 
-## LinkedIn TagLine
-Seeking an entry-level software engineering job. Willing to relocate. —— Functional Programming | Object-Oriented Design | SQL Databases | Interactive Visualizations and Games | Programming Language Theory | Type Systems
-
 ## About
 I am seeking an entry-level software developer position, preferably non-remote, almost anywhere in the United States. I have B.S. and M.S. degrees in Computer Science from Rochester Institute of Technology, as well as a year of internship experience doing software development.
 
