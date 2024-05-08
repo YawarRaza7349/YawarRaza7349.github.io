@@ -3,7 +3,7 @@ title:
 description:
   Copy of my LinkedIn profile
 include:
-  - index.md
+  - README.md
   - projects.md
   - creative.md
 theme:
