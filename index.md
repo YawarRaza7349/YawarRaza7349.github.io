@@ -3,6 +3,7 @@ title: Yawar Raza
 showMiniToc: true
 ---
 
+
 ## Tagline
 
 Seeking an entry-level software engineering job. Willing to relocate.
