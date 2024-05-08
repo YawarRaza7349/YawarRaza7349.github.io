@@ -1,5 +1,7 @@
 Despite LinkedIn claiming to make public profiles visible to people without a LinkedIn account, I usually get a "login-wall" when I go to my profile's URL while logged out. Therefore, I am putting all the info on my LinkedIn profile here as well, to make sure everyone can see it.
 
+Projects have been placed on [a separate page](https://YawarRaza7349.github.io/projects).
+
 ## Tagline
 
 Seeking an entry-level software engineering job. Willing to relocate.
@@ -20,13 +22,13 @@ I also like explaining computer programming concepts to others, both through one
 
 [Modified slightly from the original posts by including the external links as in-line text and correspondingly adjusting the text.]
 
-### Shared by Yawar Raza
+### Post
 
 The RIT course I took about design patterns also had a unit on refactoring, another important part of making your code clearly organized. I'm reminded of a Code Review Stack Exchange answer I wrote years ago, [[linked here]](https://codereview.stackexchange.com/a/161948). While this question was asked by a novice, professional codebases can also see similar redundancy arise as code evolves over time. Such code can be confusing to read, and is best carefully assessed and refactored to remove the residual parts. Have you ever seen code like this, leftover after many changes, in the codebases you've worked in? What did you do about it and how did it turn out?
 
 \#Refactoring #Postconditions #LegacyCode
 
-### Shared by Yawar Raza
+### Post
 
 Back when I was in college, I remember seeing the "Object" documentation page for the Reason programming language and thinking it could use some improvement. I had planned to draft a full rewrite of the page to show the Reason team, but never ended up getting to it.
 
@@ -36,7 +38,7 @@ It goes to show that even if you think someone else will surely get to that thin
 
 \#ReasonML #Documentation #Polymorphism
 
-### Posted by Yawar Raza
+### Post
 
 It's exciting having a prominent computer scientist giving "thumbs-up" to several of your comments to his blog posts. While a lot of the blog covers topics that are newer to me, there were places where my background allowed me to add to some of the points he made. You can read all the comments I posted on his blog through [[this link]](https://github.com/search?q=commenter%3AYawarRaza7349%20repo%3Alawrencecpaulson%2Flawrencecpaulson.github.io&type=issues).
 
@@ -44,7 +46,7 @@ In some of the comments, I expressed disagreement with certain ideas he presente
 
 \#Isabelle #DependentTypes #FormalMethods
 
-### Yawar Raza commented on this
+### Comment
 
 [[Original post]](https://www.linkedin.com/feed/update/urn:li:activity:7194053165376237570/)
 
@@ -96,14 +98,19 @@ Rochester, New York, United States
 ### Rochester Institute of Technology
 
 Bachelor of Science/Master of Science dual degree  
-Computer Science (BS/MS), Game Design and Development (BS only)  
-3.8/4.0
-
 2011 - 2018
 
-Activities and Societies: RIT Honors Program; Computer Science Community; Tora-Con
+- M.S. Degree
+  - Computer Science
+  - GPA: 3.9
+- B.S. Degree
+  - Double Major
+    - Computer Science
+    - Game Design and Development
+  - Minor in Mathematics
+  - GPA: 3.8
 
-Minor in Mathematics
+Activities and Societies: RIT Honors Program; Computer Science Community; Tora-Con
 
 ## Courses
 
@@ -132,7 +139,7 @@ Special Topics | Software Foundations/Mechanized Metatheory for Programming Lang
 
 ## Projects
 
-Listed [here](https://YawarRaza7349.github.io/projects)
+Projects have been placed on [a separate page](https://YawarRaza7349.github.io/projects).
 
 ## Honors & Awards
 
