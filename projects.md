@@ -1,4 +1,7 @@
-# Projects
+---
+title: Projects
+---
+
 ## Proofs About Particular Programs (Work in Progress)
 
 Dec 2023 - Mar 2024  
