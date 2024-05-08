@@ -102,7 +102,7 @@ Minor in Mathematics
 ## Courses
 
 Number | Title
-:-: | :-:
+:-- | :--
 `[CSCI 633]` | Biologically-Inspired Intelligent Systems
 `[MATH 646]` | Combinatorics
 `[CSCI 742]` | Compiler Construction
