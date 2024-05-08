@@ -1,4 +1,4 @@
-# Yawar Raza
+# Profile
 
 ## About
 I am seeking an entry-level software developer position, preferably non-remote, almost anywhere in the United States. I have B.S. and M.S. degrees in Computer Science from Rochester Institute of Technology, as well as a year of internship experience doing software development.
@@ -9,37 +9,33 @@ I am familiar with various styles of computer programming, as well as the trade-
 
 I also like explaining computer programming concepts to others, both through one-on-one conversations and through written explanations. This ranges from teaching well-known content to presenting ideas that I think of myself. I love synthesizing new connections based on my existing knowledge, letting me create educational analogies, as well as come up with mind-opening ways to formulate certain notions in programming. Given all this, I am also open to positions such as technical writer or instructor, as well as positions involving studying and documenting computing systems, such as large codebases. Samples of my technical writing can be found in the "Projects" section below.
 
-## Activity
+## LinkedIn Activity
+
+[Modified slightly from the original posts by including the external links as in-line text and correspondingly adjusting the text.]
 
 ### Shared by Yawar Raza
 
-The RIT course I took about design patterns also had a unit on refactoring, another important part of making your code clearly organized. I'm reminded of a Code Review Stack Exchange answer I wrote years ago, linked below. While this question was asked by a novice, professional codebases can also see similar redundancy arise as code evolves over time. Such code can be confusing to read, and is best carefully assessed and refactored to remove the residual parts. Have you ever seen code like this, leftover after many changes, in the codebases you've worked in? What did you do about it and how did it turn out?
+The RIT course I took about design patterns also had a unit on refactoring, another important part of making your code clearly organized. I'm reminded of a Code Review Stack Exchange answer I wrote years ago, [[linked here]](https://codereview.stackexchange.com/a/161948). While this question was asked by a novice, professional codebases can also see similar redundancy arise as code evolves over time. Such code can be confusing to read, and is best carefully assessed and refactored to remove the residual parts. Have you ever seen code like this, leftover after many changes, in the codebases you've worked in? What did you do about it and how did it turn out?
 
 \#Refactoring #Postconditions #LegacyCode
-
-https://codereview.stackexchange.com/a/161948
 
 ### Shared by Yawar Raza
 
 Back when I was in college, I remember seeing the "Object" documentation page for the Reason programming language and thinking it could use some improvement. I had planned to draft a full rewrite of the page to show the Reason team, but never ended up getting to it.
 
-Recently, I thought to check if anyone else had fixed up the page, only to find it the same as it was almost a decade earlier. Rather than contemplate the broad overhaul I'd imagined, I decided to just submit a pull request addressing the biggest issue on the page, which you can check out in the link below.
+Recently, I thought to check if anyone else had fixed up the page, only to find it the same as it was almost a decade earlier. Rather than contemplate the broad overhaul I'd imagined, I decided to just submit a pull request addressing the biggest issue on the page, which you can check out in [[this link]](https://github.com/reasonml/reasonml.github.io/pull/768).
 
 It goes to show that even if you think someone else will surely get to that thing you noticed, sometimes they won't, and it's best to point it out yourself and work on whatever you can, even if it's not much. Have you ever taken the initiative to address an overlooked problem? How did you approach the situation and what did you learn from it?
 
 \#ReasonML #Documentation #Polymorphism
 
-https://github.com/reasonml/reasonml.github.io/pull/768
-
 ### Posted by Yawar Raza
 
-It's exciting having a prominent computer scientist giving "thumbs-up" to several of your comments to his blog posts. While a lot of the blog covers topics that are newer to me, there were places where my background allowed me to add to some of the points he made. You can read all the comments I posted on his blog through the link below.
+It's exciting having a prominent computer scientist giving "thumbs-up" to several of your comments to his blog posts. While a lot of the blog covers topics that are newer to me, there were places where my background allowed me to add to some of the points he made. You can read all the comments I posted on his blog through [[this link]](https://github.com/search?q=commenter%3AYawarRaza7349%20repo%3Alawrencecpaulson%2Flawrencecpaulson.github.io&type=issues).
 
 In some of the comments, I expressed disagreement with certain ideas he presented in his posts. Have you ever found yourself disagreeing with an expert in your craft? Did either of you end up changing your mind in the long run?
 
 \#Isabelle #DependentTypes #FormalMethods
-
-https://github.com/search?q=commenter%3AYawarRaza7349%20repo%3Alawrencecpaulson%2Flawrencecpaulson.github.io&type=issues
 
 ## Experience
 
@@ -135,14 +131,14 @@ Minor in Mathematics
 [Special Topics]
 
 ## Projects
-See them [here](projects.md).
+Listed [here](https://YawarRaza7349.github.io/projects)
 
 ## Honors & Awards
 ### Top 5% of contestants in HackerRank's Hack the Interview III online coding contest
 
 HackerRank  
 Apr 2020
-https://www.hackerrank.com/results/hacktheinterview3/ysr7349
+[My results page on HackerRank](https://www.hackerrank.com/results/hacktheinterview3/ysr7349)
 
 ### First-place winner of the 2018 RIT Math Competition
 
@@ -166,8 +162,8 @@ Native proficiency
 
 ## Websites
 ### See "Contest History" section
-https://hackerrank.com/ysr7349
+[HackerRank profile](https://hackerrank.com/ysr7349)
 ### Answers to fill gaps by others
-https://stackexchange.com/users/4591291/yawarraza7349
+[Stack Exchange profile](https://stackexchange.com/users/4591291/yawarraza7349)
 ### Some projects and random stuff
-https://github.com/YawarRaza7349
+[GitHub profile](https://github.com/YawarRaza7349)
