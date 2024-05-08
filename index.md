@@ -1,6 +1,4 @@
----
-title: Yawar Raza
----
+Despite LinkedIn claiming to make public profiles visible to people without a LinkedIn account, I usually get a "login-wall" when I go to my profile's URL while logged out. Therefore, I am putting all the info on my LinkedIn profile here as well, to make sure everyone can see it.
 
 ## Tagline
 
@@ -9,6 +7,7 @@ Seeking an entry-level software engineering job. Willing to relocate.
 Functional Programming \| Object-Oriented Design \| SQL Databases \| Interactive Visualizations and Games \| Programming Language Theory \| Type Systems
 
 ## About
+
 I am seeking an entry-level software developer position, preferably non-remote, almost anywhere in the United States. I have B.S. and M.S. degrees in Computer Science from Rochester Institute of Technology, as well as a year of internship experience doing software development.
 
 I have learned about and used many technologies in a variety of contexts, and can thus adapt to different tech stacks and platforms. That said, I am most comfortable doing backend application development, spanning both the business domain layer and the database layer. I prefer to develop in Java, C#, or similar (i.e. statically-typed and garbage-collected) languages. My database experience is in SQL, and I have used several implementations throughout my work. Additionally, I'd be interested in creating self-contained software tools for internal use by both developers and non-developers. I also enjoy working with existing codebases to fix bugs from the bug database, as well as refactor code.
@@ -87,7 +86,9 @@ Rochester, New York, United States
 - Assisted in teaching and giving one‐on‐one help on Java and Processing to middle schoolers.
 
 ## Education
+
 ### Rochester Institute of Technology
+
 Bachelor of Science/Master of Science dual degree  
 Computer Science (BS/MS), Game Design and Development (BS only)  
 3.8/4.0
@@ -99,6 +100,7 @@ Activities and Societies: RIT Honors Program; Computer Science Community; Tora-C
 Minor in Mathematics
 
 ## Courses
+
 - Biologically-Inspired Intelligent Systems
 [CSCI 633]
 - Combinatorics
@@ -141,9 +143,11 @@ Minor in Mathematics
 [Special Topics]
 
 ## Projects
+
 Listed [here](https://YawarRaza7349.github.io/projects)
 
 ## Honors & Awards
+
 ### Top 5% of contestants in HackerRank's Hack the Interview III online coding contest
 
 HackerRank  
@@ -167,13 +171,13 @@ RIT School of Mathematical Sciences
 Mar 2014
 
 ## Languages
+
 ### English
+
 Native proficiency
 
 ## Websites
-### See "Contest History" section
-[HackerRank profile](https://hackerrank.com/ysr7349)
-### Answers to fill gaps by others
-[Stack Exchange profile](https://stackexchange.com/users/4591291/yawarraza7349)
-### Some projects and random stuff
-[GitHub profile](https://github.com/YawarRaza7349)
+
+- [See "Contest History" section](https://hackerrank.com/ysr7349)
+- [Answers to fill gaps by others](https://stackexchange.com/users/4591291/yawarraza7349)
+- [Some projects and random stuff](https://github.com/YawarRaza7349)
