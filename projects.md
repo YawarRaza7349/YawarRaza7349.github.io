@@ -13,20 +13,15 @@ Dec 2023 - Mar 2024
 Mar 2019 - Feb 2024  
 (solo)
 
-- The Visitor Pattern in JavaScript:
-https://codereview.stackexchange.com/a/249999
+- [The Visitor Pattern in JavaScript](https://codereview.stackexchange.com/a/249999)
 
-- On moving variables to outer scopes:
-https://softwareengineering.stackexchange.com/a/388486
+- [On moving variables to outer scopes](https://softwareengineering.stackexchange.com/a/388486)
 
-- The real difference between "where" and "sharing" in SML:
-https://github.com/SMLFamily/Successor-ML/issues/7#issuecomment-1948242700
+- [The real difference between "where" and "sharing" in SML](https://github.com/SMLFamily/Successor-ML/issues/7#issuecomment-1948242700)
 
-- A new way to think about SML's opaque ascription:
-https://github.com/SMLFamily/Successor-ML/issues/27#issuecomment-1948244075
+- [A new way to think about SML's opaque ascription](https://github.com/SMLFamily/Successor-ML/issues/27#issuecomment-1948244075)
 
-- The difference between bound and free type variables:
-https://gist.github.com/YawarRaza7349/78cd8c3c33d6924fcf8af4a631bb531a
+- [The difference between bound and free type variables](https://gist.github.com/YawarRaza7349/78cd8c3c33d6924fcf8af4a631bb531a)
 
 ### Designing Computer Languages
 
@@ -46,8 +41,7 @@ Jan 2018 - May 2018
 - Worked on translating the type soundness proof from a research paper into Coq so it can be machine-checked.
 - Experimented with different encodings (lists, functions, etc.) to see which one was easiest to use in the proofs.
 
-Project Report:
-https://cs.rit.edu/~mtf/student-resources/20175_raza_mscourse.pdf
+[Project Report](https://cs.rit.edu/~mtf/student-resources/20175_raza_mscourse.pdf)
 
 ### Inverse Kinematics of a Stick Figure’s Limbs
 
@@ -57,8 +51,7 @@ Oct 2017 - Dec 2017
 - An inverse kinematics program animating limbs’ internal joints to resemble the given motion-capture data.
 - Iteratively improved animation via trial-and-error, switching from FABRIK to CCD and adding constraints.
 
-Videos of the program in action!:
-https://www.youtube.com/playlist?list=PLY2FhVIfIl7UgElsgOhD8sE-R5X3yhsng
+[Videos of the program in action!](https://www.youtube.com/playlist?list=PLY2FhVIfIl7UgElsgOhD8sE-R5X3yhsng)
 
 ### Visual Studio Code Jump-to-Definition extension for MLton
 
@@ -84,8 +77,7 @@ Mar 2014 - May 2015
 - Small visualizations and games I created, some for class, some for fun, all available on GitHub. Click the link below for more info.
 - Technologies used include Unity2D, Processing, Processing.js, CoffeeScript, underscore.js, HTML, the DOM API, d3.js, AJAX, Web Workers, and Haskell.
 
-You can even try a few of them yourself!:
-https://YawarRaza7349.github.io/creative
+[You can even try a few of them yourself!](https://YawarRaza7349.github.io/creative)
 
 ### PokéNet
 
