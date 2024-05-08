@@ -1,6 +1,4 @@
----
-title: Projects
----
+# Projects
 
 ## Proofs About Particular Programs (Work in Progress)
 
