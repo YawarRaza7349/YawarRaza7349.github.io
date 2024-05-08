@@ -101,26 +101,28 @@ Minor in Mathematics
 
 ## Courses
 
-- `[CSCI 633]` Biologically-Inspired Intelligent Systems
-- `[MATH 646]` Combinatorics
-- `[CSCI 742]` Compiler Construction
-- `[CSCI 712]` Computer Animation: Algorithms and Techniques
-- `[ENVS 101]` Concepts of Environment Science
-- `[IGME 309]` Data Structures and Algorithms for Games and Simulations II
-- `[Special Topics]` Educational Games
-- `[4010-362]` Engineering of Software Subsystems
-- `[BIOG 101]` Explorations in Cell and Molecular Biology and Evolution
-- `[CSCI 610]` Foundations of Computer Graphics
-- `[IGME 236]` Interaction, Immersion, and the Media Interface
-- `[ANTH 104]` Language and Linguistics
-- `[SWEN 220]` Mathematical Models of Software
-- `[CSCI 471]` Professional Communications
-- `[CSCI 344]` Programming Language Concepts
-- `[CSCI 740]` Programming Language Theory
-- `[CSCI 641]` Programming Skills: Aspect-Oriented Programming
-- `[4003-561]` Programming Skills: Functional Programming with Haskell
-- `[4080-434]` Programming for Digital Media
-- `[Special Topics]` Software Foundations/Mechanized Metatheory for Programming Languages
+Number | Title
+:-: | :-:
+`[CSCI 633]` | Biologically-Inspired Intelligent Systems
+`[MATH 646]` | Combinatorics
+`[CSCI 742]` | Compiler Construction
+`[CSCI 712]` | Computer Animation: Algorithms and Techniques
+`[ENVS 101]` | Concepts of Environment Science
+`[IGME 309]` | Data Structures and Algorithms for Games and Simulations II
+`[Special Topics]` | Educational Games
+`[4010-362]` | Engineering of Software Subsystems
+`[BIOG 101]` | Explorations in Cell and Molecular Biology and Evolution
+`[CSCI 610]` | Foundations of Computer Graphics
+`[IGME 236]` | Interaction, Immersion, and the Media Interface
+`[ANTH 104]` | Language and Linguistics
+`[SWEN 220]` | Mathematical Models of Software
+`[CSCI 471]` | Professional Communications
+`[CSCI 344]` | Programming Language Concepts
+`[CSCI 740]` | Programming Language Theory
+`[CSCI 641]` | Programming Skills: Aspect-Oriented Programming
+`[4003-561]` | Programming Skills: Functional Programming with Haskell
+`[4080-434]` | Programming for Digital Media
+`[Special Topics]` | Software Foundations/Mechanized Metatheory for Programming Languages
 
 ## Projects
 
