@@ -1,10 +1,12 @@
 title:
   [Yawar Raza](https://YawarRaza7349.github.io)
 description:
-  Seeking an entry-level software engineering job. Willing to relocate. —— Functional Programming | Object-Oriented Design | SQL Databases | Interactive Visualizations and Games | Programming Language Theory | Type Systems
+  [Profile](https://YawarRaza7349.github.io)  
+  [Projects](https://YawarRaza7349.github.io/projects)
+  [Portfolio](https://YawarRaza7349.github.io/creative)
 include:
   - index.md
   - projects.md
   - creative.md
 theme:
-  jekyll-theme-time-machine
+  jekyll-theme-midnight
