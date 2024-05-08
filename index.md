@@ -137,7 +137,7 @@ Listed [here](https://YawarRaza7349.github.io/projects)
 ### Top 5% of contestants in HackerRank's Hack the Interview III online coding contest
 
 HackerRank  
-Apr 2020
+Apr 2020  
 [My results page on HackerRank](https://www.hackerrank.com/results/hacktheinterview3/ysr7349)
 
 ### First-place winner of the 2018 RIT Math Competition
