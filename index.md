@@ -16,7 +16,7 @@ I am familiar with various styles of computer programming, as well as the trade-
 
 I also like explaining computer programming concepts to others, both through one-on-one conversations and through written explanations. This ranges from teaching well-known content to presenting ideas that I think of myself. I love synthesizing new connections based on my existing knowledge, letting me create educational analogies, as well as come up with mind-opening ways to formulate certain notions in programming. Given all this, I am also open to positions such as technical writer or instructor, as well as positions involving studying and documenting computing systems, such as large codebases. Samples of my technical writing can be found in the "Projects" section below.
 
-## LinkedIn Activity
+## Activity
 
 [Modified slightly from the original posts by including the external links as in-line text and correspondingly adjusting the text.]
 
@@ -43,6 +43,12 @@ It's exciting having a prominent computer scientist giving "thumbs-up" to severa
 In some of the comments, I expressed disagreement with certain ideas he presented in his posts. Have you ever found yourself disagreeing with an expert in your craft? Did either of you end up changing your mind in the long run?
 
 \#Isabelle #DependentTypes #FormalMethods
+
+### Yawar Raza commented on this
+
+[[Original post]](https://www.linkedin.com/feed/update/urn:li:activity:7194053165376237570/)
+
+It's worth considering that leaders should be familiar with their employees' responsibilities in a different way than the employee themself is. It's less useful to learn how for-loops work than it is to, for example, observe how developers use their tools and processes at a high-level, something that the developer might not have consciously analyzed about themself. This knowledge is then used to help coordinate everyone with each other. The point of a leader as a distinct role is to take on a different responsibility than the other members of the team, which entails a different perspective.
 
 ## Experience
 
