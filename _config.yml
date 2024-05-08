@@ -7,6 +7,4 @@ include:
   - projects.md
   - creative.md
 theme:
-  jekyll-theme-midnight
-markdown:
-  GFM
+  jekyll-theme-time-machine
