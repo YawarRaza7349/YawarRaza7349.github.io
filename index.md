@@ -1,4 +1,7 @@
-# Profile
+---
+title: Yawar Raza
+showMiniToc: true
+---
 
 ## Tagline
 
