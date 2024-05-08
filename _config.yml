@@ -7,4 +7,4 @@ include:
   - projects.md
   - creative.md
 theme:
-  jekyll-theme-midnight
+  jekyll-theme-architect
