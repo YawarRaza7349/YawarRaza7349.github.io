@@ -1,8 +1,7 @@
 ---
+layout: article
 title: Yawar Raza
-showMiniToc: true
 ---
-
 
 ## Tagline
 
