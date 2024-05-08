@@ -49,7 +49,7 @@ In some of the comments, I expressed disagreement with certain ideas he presente
 ### SRC Solutions Inc
 
 Software Engineering Co-Op  
-Jan 2017 - Jun 2017 (6 months)  
+Jan 2017 - Jun 2017  
 Center Valley, Pennsylvania, United States  
 (Worked remotely in Rochester, NY)
 
@@ -59,7 +59,7 @@ Center Valley, Pennsylvania, United States
 ### McGraw‐Hill Financial — S&P Capital IQ
 
 Software Engineering Intern  
-Jun 2014 - Aug 2014 (3 months)  
+Jun 2014 - Aug 2014  
 New York, New York, United States
 
 - Created an internal tool to aggregate and display application usage data, with one other intern.
@@ -69,7 +69,7 @@ New York, New York, United States
 ### B-Line Medical
 
 Software Development Intern  
-Sep 2013 - Jan 2014 (5 months)  
+Sep 2013 - Jan 2014  
 Washington, District of Columbia, United States
 
 - Contributed to SimCapture, which records medical simulations and manages course data.
@@ -79,7 +79,7 @@ Washington, District of Columbia, United States
 ### Kids on Campus
 
 Workshop Assistant – Creative Coding with Java  
-Jul 2013 - Aug 2013 (2 months)  
+Jul 2013 - Aug 2013  
 Rochester, New York, United States
 
 - Helped 25 students over two sessions learn how to program simple textual and visual games.
@@ -101,46 +101,46 @@ Minor in Mathematics
 
 ## Courses
 
-- Biologically-Inspired Intelligent Systems
-[CSCI 633]
-- Combinatorics
-[MATH 646]
-- Compiler Construction
-[CSCI 742]
-- Computer Animation: Algorithms and Techniques
-[CSCI 712]
-- Concepts of Environment Science
-[ENVS 101]
-- Data Structures and Algorithms for Games and Simulations II
-[IGME 309]
-- Educational Games
-[Special Topics]
-- Engineering of Software Subsystems
-[4010-362]
-- Explorations in Cell and Molecular Biology and Evolution
-[BIOG 101]
-- Foundations of Computer Graphics
-[CSCI 610]
-- Interaction, Immersion, and the Media Interface
-[IGME 236]
-- Language and Linguistics
-[ANTH 104]
-- Mathematical Models of Software
-[SWEN 220]
-- Professional Communications
-[CSCI 471]
-- Programming Language Concepts
-[CSCI 344]
-- Programming Language Theory
-[CSCI 740]
-- Programming Skills: Aspect-Oriented Programming
-[CSCI 641]
-- Programming Skills: Functional Programming with Haskell
-[4003-561]
-- Programming for Digital Media
-[4080-434]
-- Software Foundations/Mechanized Metatheory for Programming Languages
-[Special Topics]
+- Biologically-Inspired Intelligent Systems  
+  [CSCI 633]
+- Combinatorics  
+  [MATH 646]
+- Compiler Construction  
+  [CSCI 742]
+- Computer Animation: Algorithms and Techniques  
+  [CSCI 712]
+- Concepts of Environment Science  
+  [ENVS 101]
+- Data Structures and Algorithms for Games and Simulations II  
+  [IGME 309]
+- Educational Games  
+  [Special Topics]
+- Engineering of Software Subsystems  
+  [4010-362]
+- Explorations in Cell and Molecular Biology and Evolution  
+  [BIOG 101]
+- Foundations of Computer Graphics  
+  [CSCI 610]
+- Interaction, Immersion, and the Media Interface  
+  [IGME 236]
+- Language and Linguistics  
+  [ANTH 104]
+- Mathematical Models of Software  
+  [SWEN 220]
+- Professional Communications  
+  [CSCI 471]
+- Programming Language Concepts  
+  [CSCI 344]
+- Programming Language Theory  
+  [CSCI 740]
+- Programming Skills: Aspect-Oriented Programming  
+  [CSCI 641]
+- Programming Skills: Functional Programming with Haskell  
+  [4003-561]
+- Programming for Digital Media  
+  [4080-434]
+- Software Foundations/Mechanized Metatheory for Programming Languages  
+  [Special Topics]
 
 ## Projects
 
