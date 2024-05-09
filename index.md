@@ -55,7 +55,7 @@ In some of the comments, I expressed disagreement with certain ideas he presente
 
 ### Comment
 
-[[Original post]](https://www.linkedin.com/feed/update/urn:li:activity:7194053165376237570/)
+_[Original post](https://www.linkedin.com/feed/update/urn:li:activity:7194053165376237570/)_
 
 It's worth considering that leaders should be familiar with their employees' responsibilities in a different way than the employee themself is. It's less useful to learn how for-loops work than it is to, for example, observe how developers use their tools and processes at a high-level, something that the developer might not have consciously analyzed about themself. This knowledge is then used to help coordinate everyone with each other. The point of a leader as a distinct role is to take on a different responsibility than the other members of the team, which entails a different perspective.
 
