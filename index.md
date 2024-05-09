@@ -176,7 +176,7 @@ Mar 2014
 
 ## Languages
 
-Native English speaker
+English (native speaker)
 
 ## Websites
 
