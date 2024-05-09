@@ -27,7 +27,7 @@ I also like explaining computer programming concepts to others, both through one
 
 ## Activity
 
-_Modified slightly from the original posts by including the external links as in-line text and correspondingly adjusting the text._
+_Posts modified slightly from the originals on LinkedIn by including the external links as in-line text and correspondingly adjusting the text._
 
 ### Post
 
