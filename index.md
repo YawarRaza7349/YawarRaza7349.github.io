@@ -6,7 +6,12 @@ Projects have been placed on [a separate page](https://YawarRaza7349.github.io/p
 
 Seeking an entry-level software engineering job. Willing to relocate.
 
-Functional Programming \| Object-Oriented Design \| SQL Databases \| Interactive Visualizations and Games \| Programming Language Theory \| Type Systems
+- Functional Programming
+- Object-Oriented Design
+- SQL Databases
+- Interactive Visualizations and Games
+- Programming Language Theory
+- Type Systems
 
 ## About
 
@@ -100,22 +105,24 @@ Rochester, New York, United States
 Bachelor of Science/Master of Science dual degree  
 2011 - 2018
 
-- M.S. Degree
+- Master's Degree
   - Computer Science
   - GPA: 3.9
-- B.S. Degree
+- Bachelor's Degree
   - Double Major
     - Computer Science
     - Game Design and Development
   - Minor in Mathematics
   - GPA: 3.8
-
-Activities and Societies: RIT Honors Program; Computer Science Community; Tora-Con
+- Activities and Societies
+  - RIT Honors Program
+  - Computer Science Community
+  - Tora-Con
 
 ## Courses
 
 Number | Title
-:-- | :--
+--: | :--
 `CSCI 633` | Biologically-Inspired Intelligent Systems
 `MATH 646` | Combinatorics
 `CSCI 742` | Compiler Construction
@@ -167,9 +174,7 @@ Mar 2014
 
 ## Languages
 
-### English
-
-Native proficiency
+Native English speaker
 
 ## Websites
 
