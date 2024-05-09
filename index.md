@@ -4,7 +4,9 @@ Projects have been placed on [a separate page](https://YawarRaza7349.github.io/p
 
 ## Tagline
 
-Seeking an entry-level software engineering job. Willing to relocate.
+Seeking an entry-level software engineering job.  
+Can relocate.  
+U.S. Citizen
 
 - Functional Programming
 - Object-Oriented Design
