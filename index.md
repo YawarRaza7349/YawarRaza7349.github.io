@@ -27,7 +27,7 @@ I also like explaining computer programming concepts to others, both through one
 
 ## Activity
 
-[Modified slightly from the original posts by including the external links as in-line text and correspondingly adjusting the text.]
+_Modified slightly from the original posts by including the external links as in-line text and correspondingly adjusting the text._
 
 ### Post
 
@@ -148,7 +148,7 @@ Special Topics | Software Foundations/Mechanized Metatheory for Programming Lang
 
 ## Projects
 
-Projects have been placed on [a separate page](https://YawarRaza7349.github.io/projects).
+_Projects have been placed on [a separate page](https://YawarRaza7349.github.io/projects)._
 
 ## Honors & Awards
 
