@@ -1,3 +1,5 @@
+This page is a copy of the Projects section of my LinkedIn profile. The other sections can be found [on the main page](https://YawarRaza7349.github.io).
+
 # Projects
 
 ## Proofs About Particular Programs (Work in Progress)
@@ -96,7 +98,7 @@ Sep 2014 - Dec 2014
 (C#/Unity; team of 4)
 
 - A number manipulation game with a food theme where the player plays as a chef.
-- Created the game state system using design patterns and evaluated UI/UX approaches for simplicity.
+- Created the system for navigating across game screens using the State design pattern, and evaluated UI/UX approaches for simplicity.
 - [GitHub repository](https://github.com/bro9918/24Game)
 
 ## Tilecar Runner
