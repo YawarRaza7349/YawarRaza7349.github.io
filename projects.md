@@ -101,6 +101,14 @@ Sep 2014 - Dec 2014
 - Used the State design pattern to implement game screen navigation and evaluated UI/UX approaches for simplicity.
 - [GitHub repository](https://github.com/bro9918/24Game)
 
+## 2048.hs
+
+Mar 2014 - Mar 2014
+(Haskell; solo)
+
+- A command-line version of the popular 2048 game written in Haskell, a functional programming language.
+- [GitHub repository](https://github.com/YawarRaza7349/2048Game.hs)
+
 ## Tilecar Runner
 
 Apr 2013 - May 2013  
