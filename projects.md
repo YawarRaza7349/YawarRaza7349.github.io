@@ -98,7 +98,7 @@ Sep 2014 - Dec 2014
 (C#/Unity; team of 4)
 
 - A number manipulation game with a food theme where the player plays as a chef.
-- Created the system for navigating across game screens using the State design pattern, and evaluated UI/UX approaches for simplicity.
+- Used the State design pattern to implement game screen navigation and evaluated UI/UX approaches for simplicity.
 - [GitHub repository](https://github.com/bro9918/24Game)
 
 ## Tilecar Runner
