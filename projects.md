@@ -103,8 +103,7 @@ Sep 2014 - Dec 2014
 
 ## 2048.hs
 
-Mar 2014 - Mar 2014
-
+Mar 2014 - Mar 2014  
 (Haskell; solo)
 
 - A command-line version of the popular 2048 game written in Haskell, a functional programming language.
