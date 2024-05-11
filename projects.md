@@ -95,7 +95,7 @@ Jan 2014 - Apr 2015
 ## Math Fusion
 
 Sep 2014 - Dec 2014  
-(C#/Unity; team of 4)
+(C#/Unity2D; team of 4)
 
 - A number manipulation game with a food theme where the player plays as a chef.
 - Used the State design pattern to implement game screen navigation and evaluated UI/UX approaches for simplicity.
