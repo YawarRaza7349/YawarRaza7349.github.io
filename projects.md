@@ -86,7 +86,7 @@ Feb 2015 - May 2015
 ## Processing Typing Game
 
 Jul 2013 - May 2015  
-(Processing; solo)
+(Processing (Java); solo)
 
 - A simple typing game, geared towards typing programs, even simulating simple code editor features
 - [GitHub repository](https://github.com/YawarRaza7349/ProcessingTypingGame)
@@ -94,7 +94,7 @@ Jul 2013 - May 2015
 ## Frame-by-Frame Animation Application
 
 Jan 2014 - Apr 2015  
-(Processing; solo)
+(Processing (Java); solo)
 
 - A drawing application I created to use for my 2D Animation course instead of Photoshop
 - Features onion-skinning to facilitate creating frame-by-frame animations, and also includes a color palette and a fill tool
@@ -119,8 +119,8 @@ Mar 2014
 
 ## Shape Periodic Waves
 
-Aug 2013
-(Processing; solo)
+Aug 2013  
+(Processing (Java); solo)
 
 - An application that shows the polar graphs seen in an Imgur GIF for an arbitrary shape the programmer defines
 - [Original Imgur post](https://i.imgur.com/DWuA6Vn.gif)
