@@ -48,7 +48,7 @@ Oct 2017 - Dec 2017
 
 - An inverse kinematics program animating limbs’ internal joints to resemble the given motion-capture data
 - Iteratively improved animation via trial-and-error, switching from FABRIK to CCD and adding constraints
-- [Videos of the program in action!](https://www.youtube.com/playlist?list=PLY2FhVIfIl7UgElsgOhD8sE-R5X3yhsng)
+- [Videos of the program in action](https://www.youtube.com/playlist?list=PLY2FhVIfIl7UgElsgOhD8sE-R5X3yhsng)
 
 ## Visual Studio Code Jump-to-Definition extension for MLton
 
@@ -115,7 +115,7 @@ May 2014
 (JavaScript/DOM API; solo)
 
 - A dynamic HTML/CSS grid visualizing the stats of Yu-Gi-Oh! Monster cards, which also includes filtering and links to more info about each card
-- [Try it out yourself](https://jsfiddle.net/n5w1av7z/)
+- [Try it out yourself](https://jsfiddle.net/n5w1av7z/embedded/result/)
 - [GitHub repository](https://github.com/YawarRaza7349/YuGiOhCardStatCorrelations)
 
 ## 2048.hs
@@ -125,6 +125,15 @@ Mar 2014
 
 - A command-line version of the popular 2048 game written in Haskell, a functional programming language
 - [GitHub repository](https://github.com/YawarRaza7349/2048Game.hs)
+
+## Greebles
+
+Feb 2014  
+(CoffeeScript/Processing.js/underscore.js; solo)
+
+- A screen of randomly placed, animated UI widgets, reminiscent of futuristic sci-fi movies and TV shows
+- [Try it out yourself](https://jsfiddle.net/zycgwb0p/embedded/result/)
+- [GitHub repository](https://github.com/YawarRaza7349/Greebles)
 
 ## Shape Periodic Waves
 
