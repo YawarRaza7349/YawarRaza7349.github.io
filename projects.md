@@ -83,6 +83,14 @@ Feb 2015 - May 2015
 - A fan-made, persistent application for managing Pokémon and coordinating Pokémon trades with others
 - Designed the database using ER diagrams, created scripts to populate the database, and wrote GUI code
 
+## Processing Typing Game
+
+Jul 2013 - May 2015  
+(Processing; solo)
+
+- A simple typing game, geared towards typing programs, even simulating simple code editor features
+- [GitHub repository](https://github.com/YawarRaza7349/ProcessingTypingGame)
+
 ## Frame-by-Frame Animation Application
 
 Jan 2014 - Apr 2015  
@@ -103,11 +111,21 @@ Sep 2014 - Dec 2014
 
 ## 2048.hs
 
-Mar 2014 - Mar 2014  
+Mar 2014  
 (Haskell; solo)
 
 - A command-line version of the popular 2048 game written in Haskell, a functional programming language
 - [GitHub repository](https://github.com/YawarRaza7349/2048Game.hs)
+
+## Shape Periodic Waves
+
+Aug 2013
+(Processing; solo)
+
+- An application that shows the polar graphs seen in an Imgur GIF for an arbitrary shape the programmer defines
+- [Original Imgur post](https://i.imgur.com/DWuA6Vn.gif)
+- [Screenshot of my application](https://imgur.com/7WWh0Go)
+- [GitHub repository](https://github.com/YawarRaza7349/ShapePeriodicWaves)
 
 ## Tilecar Runner
 
