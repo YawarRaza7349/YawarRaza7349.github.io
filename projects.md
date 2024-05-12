@@ -39,7 +39,7 @@ Jan 2018 - May 2018
 
 - Worked on translating the type soundness proof from a research paper into Coq so it can be machine-checked
 - Experimented with different encodings (lists, functions, etc.) to see which one was easiest to use in the proofs
-- [Project Report](https://cs.rit.edu/~mtf/student-resources/20175_raza_mscourse.pdf)
+- [Project report](https://cs.rit.edu/~mtf/student-resources/20175_raza_mscourse.pdf)
 
 ## Inverse Kinematics of a Stick Figure’s Limbs
 
