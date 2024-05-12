@@ -109,6 +109,15 @@ Sep 2014 - Dec 2014
 - Used the State design pattern to implement game screen navigation and evaluated UI/UX approaches for simplicity
 - [GitHub repository](https://github.com/bro9918/24Game)
 
+## Yu-Gi-Oh! Card Stat Correlations
+
+May 2014  
+(JavaScript/DOM API; solo)
+
+- A dynamic HTML/CSS grid visualizing the stats of Yu-Gi-Oh! Monster cards, which also includes filtering and links to more info about each card
+- [Try it out yourself](https://jsfiddle.net/n5w1av7z/)
+- [GitHub repository](https://github.com/YawarRaza7349/YuGiOhCardStatCorrelations)
+
 ## 2048.hs
 
 Mar 2014  
