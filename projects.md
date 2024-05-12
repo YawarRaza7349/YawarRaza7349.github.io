@@ -118,7 +118,15 @@ May 2014
 - [Try it out yourself](https://jsfiddle.net/n5w1av7z/embedded/result/)
 - [GitHub repository](https://github.com/YawarRaza7349/YuGiOhCardStatCorrelations)
 
-## 2048.hs
+## Cyclic Cicadas
+
+Mar 2014 - Apr 2014
+(Processing (Java)/SVG; solo)
+
+- An animated map of the United States showing extrapolated cicada populations in each state based on prior data
+- [GitHub repository](https://github.com/YawarRaza7349/CyclicCicadas)
+
+## 2048Game.hs
 
 Mar 2014  
 (Haskell; solo)
