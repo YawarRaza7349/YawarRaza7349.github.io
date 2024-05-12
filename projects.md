@@ -120,7 +120,7 @@ May 2014
 
 ## Cyclic Cicadas
 
-Mar 2014 - Apr 2014
+Mar 2014 - Apr 2014  
 (Processing (Java)/SVG; solo)
 
 - An animated map of the United States showing extrapolated cicada populations in each state based on prior data
