@@ -44,7 +44,7 @@ Jan 2018 - May 2018
 ## Inverse Kinematics of a Stick Figure’s Limbs
 
 Oct 2017 - Dec 2017  
-(JavaScript/three.js; solo)
+(JavaScript/Three.js; solo)
 
 - An inverse kinematics program animating limbs’ internal joints to resemble the given motion-capture data
 - Iteratively improved animation via trial-and-error, switching from FABRIK to CCD and adding constraints
@@ -103,7 +103,7 @@ Jan 2014 - Apr 2015
 ## Math Fusion
 
 Sep 2014 - Dec 2014  
-(C#/Unity2D; team of 4)
+(C#/Unity 2D; team of 4)
 
 - A number manipulation game with a food theme where the player plays as a chef
 - Used the State design pattern to implement game screen navigation and evaluated UI/UX approaches for simplicity
@@ -137,7 +137,7 @@ Mar 2014
 ## Greebles
 
 Feb 2014  
-(CoffeeScript/Processing.js/underscore.js; solo)
+(CoffeeScript/Processing.js/Underscore.js; solo)
 
 - A screen of randomly placed, animated UI widgets, reminiscent of futuristic sci-fi movies and TV shows
 - [Try it out yourself](https://jsfiddle.net/zycgwb0p/embedded/result/)
