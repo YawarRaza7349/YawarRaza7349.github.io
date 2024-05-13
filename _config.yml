@@ -5,6 +5,5 @@ description:
 include:
   - index.md
   - projects.md
-  - creative.md
 theme:
   jekyll-theme-minimal
