@@ -117,6 +117,14 @@ Mar 2014 - Apr 2014
 - An animated map of the United States showing extrapolated cicada populations in each state based on prior data
 - [GitHub repository](https://github.com/YawarRaza7349/CyclicCicadas)
 
+## Popular Languages of GitHub vs. Stack Overflow
+
+Mar 2014 - Apr 2014  
+(JavaScript/D3.js/AJAX/Web Workers; solo)
+
+- A plot of various popular programming languages on a 2D graph based on their popularity on GitHub and Stack Overflow
+- [GitHub repository](https://github.com/YawarRaza7349/PopularLanguagesOfGitHubVsStackOverflow)
+
 ## 2048Game.hs
 
 Mar 2014  
@@ -167,6 +175,20 @@ Mar 2013 - Apr 2013
 
 - A bullet hell game where the player charges at cannons to destroy them
 - Contributed in group programming sessions and practiced using vector math in basic game physics
+
+## Underwater Tunnel Maze
+
+Jan 2013 - Feb 2013  
+(C#/Unity; solo)
+
+- A procedurally-generated 3D maze of corridors that fish swim through by following flow fields
+
+## Whale Echolocation
+
+Dec 2012 - Jan 2013  
+(ActionScript 3.0/Adobe Flash; solo)
+
+- Attempted to invent a Craig Reynolds-esque steering behavior using sound pulses that bounce around and are "heard" back
 
 ## Pizza Delivery System
 
