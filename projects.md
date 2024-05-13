@@ -66,15 +66,6 @@ Jul 2015 - Aug 2015
 - A procedurally-animated display of multicolored fireworks made up of operators found in Elm code
 - Created a monadic interface for Elm's random generation and used Elm's Model-Update-View pattern
 
-## Assortment of small applications, mostly in JavaScript or Processing
-
-Mar 2014 - May 2015  
-(various languages; mostly solo)
-
-- Small visualizations and games I created, some for class, some for fun, all available on GitHub. Click the link below for more info.
-- Technologies used include Unity2D, Processing, Processing.js, CoffeeScript, underscore.js, HTML, the DOM API, d3.js, AJAX, Web Workers, and Haskell.
-- [You can even try a few of them yourself!](https://YawarRaza7349.github.io/creative)
-
 ## PokéNet
 
 Feb 2015 - May 2015  
