@@ -1,6 +1,10 @@
-Despite LinkedIn claiming to make public profiles visible to people without a LinkedIn account, I usually get a "login-wall" when I go to my profile's URL while logged out. Therefore, I am putting all the info on my LinkedIn profile here as well, to make sure everyone can see it.
+Despite LinkedIn claiming to make public profiles visible to people without a LinkedIn account, I usually get a "login-wall" when I go to my profile's URL while logged out. Therefore, I am putting all the info from my LinkedIn profile here as well, to make sure everyone can see it.
 
 Projects have been placed on [a separate page](https://YawarRaza7349.github.io/projects).
+
+I have also made my resume available to [view](https://docs.google.com/viewerng/viewer?url=https://YawarRaza7349.github.io/YawarRaza_Resume.pdf) or [download](https://YawarRaza7349.github.io/YawarRaza_Resume.pdf).
+
+Feel free to contact me [on LinkedIn](https://linkedin.com/in/YawarRaza7349) or by email at YawarRaza7349@gmail.com.
 
 ## Tagline
 
