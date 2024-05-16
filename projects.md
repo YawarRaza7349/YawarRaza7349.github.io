@@ -11,7 +11,7 @@ Dec 2023 - Mar 2024
 - Tried two different implementations, one closer to an interpreter and one closer to an operational semantics
 - Represented continuations in a way that acts like a zipper, but looks like a call stack to give it a clearer structure
 
-## Technical Writing Samples
+## Explanatory Answers and Comments
 
 Mar 2019 - Feb 2024  
 (solo)
@@ -20,7 +20,6 @@ Mar 2019 - Feb 2024
 - [On moving variables to outer scopes](https://softwareengineering.stackexchange.com/a/388486)
 - [The real difference between "where" and "sharing" in SML](https://github.com/SMLFamily/Successor-ML/issues/7#issuecomment-1948242700)
 - [A new way to think about SML's opaque ascription](https://github.com/SMLFamily/Successor-ML/issues/27#issuecomment-1948244075)
-- [The difference between bound and free type variables](https://gist.github.com/YawarRaza7349/78cd8c3c33d6924fcf8af4a631bb531a)
 
 ## Designing Computer Languages
 
@@ -31,6 +30,15 @@ Aug 2018 - Jul 2023
 - Invented an educational programming language for learning how memory works in C++ while being more familiar to Java/C# coders
 - Contemplated and experimented with several other general language designs and features, particularly object-oriented ones
 - Experimented using example code to test language constructs for simplicity and expressiveness in both syntax and semantics
+
+## Function Subtyping Doesn't Necessarily Sabotage Parametricity
+
+Jan 2023  
+(solo)
+
+- Corrected a blog post's subtle mistake by discussing how function subtyping intersects with parametricity and type cardinality
+- Intuitively explained the difference between bound and free type variables without using the conventional mathematical jargon
+- [Check out the full post](https://gist.github.com/YawarRaza7349/78cd8c3c33d6924fcf8af4a631bb531a)
 
 ## A Mechanized Proof in Coq of the Type Soundness of Core L³
 
