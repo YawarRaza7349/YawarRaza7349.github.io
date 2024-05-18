@@ -35,7 +35,7 @@ I also like explaining computer programming concepts to others, both through one
 
 <summary>
 
-Click here to read the cover letter I wrote for Google that expands on points discussed in the third paragraph above.
+Click here to read the cover letter I wrote for Google that expands on points discussed in the third paragraph above.  
 
 </summary>
 
@@ -49,7 +49,7 @@ I also have breadth beyond the above focuses. I enjoy software design, including
 
 This variety of experience would be very useful for Google, which is involved in a wide array of areas in computing. Maybe at some point I'd find myself primarily working on the Dart team, but contributing to interactive Google Doodles every now and then. Or I could end up working on the API design for a Canvas2D-like library integrated into Flutter, that seamlessly unifies with the Flame game engine as well as Flutter's standard GUI framework used on its own.
 
-I know I wouldn't be jumping into such endeavors in the near future, but it's an example of both my range and my growth potential. I'm eager to take on whichever task you're looking for your hire to work on, extending my extensive experience exploring new aspects of computing.
+I know I wouldn't be jumping into such endeavors in the near future, but it's an example of both my range and my growth potential. I'm eager to take on whichever task you're looking for your hire to work on, extending my extensive experience exploring new aspects of computing.  
 
 </details>
 
