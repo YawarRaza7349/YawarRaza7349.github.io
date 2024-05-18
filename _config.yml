@@ -7,3 +7,5 @@ include:
   - projects.md
 theme:
   jekyll-theme-minimal
+markdown:
+  GFM
