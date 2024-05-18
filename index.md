@@ -29,6 +29,30 @@ I am familiar with various styles of computer programming, as well as the trade-
 
 I also like explaining computer programming concepts to others, both through one-on-one conversations and through written explanations. This ranges from teaching well-known content to presenting ideas that I think of myself. Given all this, I am also open to positions such as technical writer or instructor, as well as positions involving studying and documenting computing systems, such as large codebases. Samples of my technical writing can be found in the "Projects" section below.
 
+### Alternative Introduction
+
+<details>
+
+<summary>
+
+Click here to read the cover letter I wrote for Google that expands on points discussed in the third paragraph above.
+
+</summary>
+
+I want to draw attention to my diverse background within the world of computing, an aspect where I stand out from many of your other applicants.
+
+Through my interactive media and game development courses, I've used frameworks and libraries spanning across many levels of abstraction, including OpenGL, raster drawing libraries like Processing and Canvas2D, geometry-based scene graph libraries like Three.js and Two.js, asset-based scene graph frameworks like Adobe Flash and XNA, and the Unity game engine. I have worked on teams to make games, coded up colorful animated graphics on my own, and even created a tool for myself to use for a class.
+
+Meanwhile, I've been enthusiastic about programming languages and the details of their features ever since the start of my programming journey. I took a course on Haskell early on in college, followed by two internships and plenty of independent reading cementing this interest in functional programming. My later coursework then re-oriented this interest towards programming language theory, including further perspectives on type systems as well as writing proofs both on paper and in Coq.
+
+I also have breadth beyond the above focuses. I enjoy software design, including object-oriented design patterns, and relational database design. My internships involved real-world problem solving, including debugging existing codebases, designing a configuration format, and extensively using SQL for customizable batch processing of entire databases. I have taken several classes using C++ and have often used it for coding contests and other short programs. And I've been taking part in math contests for much of my life, including two such contests in college where I bested all other RIT participants.
+
+This variety of experience would be very useful for Google, which is involved in a wide array of areas in computing. Maybe at some point I'd find myself primarily working on the Dart team, but contributing to interactive Google Doodles every now and then. Or I could end up working on the API design for a Canvas2D-like library integrated into Flutter, that seamlessly unifies with the Flame game engine as well as Flutter's standard GUI framework used on its own.
+
+I know I wouldn't be jumping into such endeavors in the near future, but it's an example of both my range and my growth potential. I'm eager to take on whichever task you're looking for your hire to work on, extending my extensive experience exploring new aspects of computing.
+
+</details>
+
 ## Activity
 
 _Posts modified slightly from the originals on LinkedIn by including the external links as in-line text and correspondingly adjusting the text._
