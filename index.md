@@ -35,7 +35,7 @@ I also like explaining computer programming concepts to others, both through one
 
 <summary>
 
-Click here to read the cover letter I wrote for Google that expands on points discussed in the third paragraph above.  
+_Click here to read the cover letter I wrote for Google that expands on points discussed in the third paragraph above._  
 
 </summary>
 
