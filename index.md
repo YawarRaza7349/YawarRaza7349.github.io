@@ -157,7 +157,7 @@ Number | Title
 `MATH 646` | Combinatorics
 `CSCI 742` | Compiler Construction
 `CSCI 712` | Computer Animation: Algorithms and Techniques
-`ENVS 101` | Concepts of Environment Science
+`ENVS 101` | Concepts of Environmental Science
 `IGME 309` | Data Structures and Algorithms for Games and Simulations II
 Special Topics | Educational Games
 `4010-362` | Engineering of Software Subsystems
@@ -170,7 +170,7 @@ Special Topics | Educational Games
 `CSCI 344` | Programming Language Concepts
 `CSCI 740` | Programming Language Theory
 `CSCI 641` | Programming Skills: Aspect-Oriented Programming
-`4003-561` | Programming Skills: Functional Programming with Haskell
+`4003-561` | Programming Skills: Functional Programming and Haskell
 `4080-434` | Programming for Digital Media
 Special Topics | Software Foundations/Mechanized Metatheory for Programming Languages
 
