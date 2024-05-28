@@ -9,3 +9,5 @@ theme:
   jekyll-theme-minimal
 markdown:
   GFM
+kramdown:
+  input: GFM
