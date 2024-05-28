@@ -89,7 +89,7 @@ It's worth considering that leaders should be familiar with their employees' res
 
 ### All Comments
 
-For those with a LinkedIn account, the rest of my comments [can be found here](https://www.linkedin.com/in/yawarraza7349/recent-activity/comments/).
+_For those with a LinkedIn account, the rest of my comments [can be found here](https://www.linkedin.com/in/yawarraza7349/recent-activity/comments/)._
 
 ## Experience
 
