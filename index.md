@@ -27,7 +27,7 @@ I have learned about and used many technologies in a variety of contexts, and ca
 
 I am familiar with various styles of computer programming, as well as the trade-offs they have in comparison to each other. I took a course on functional programming early in my degree, and kept learning more about Haskell and static types for a few years after, before switching my focus to programming language theory and reading research papers on type systems and related topics. Meanwhile, I also obtained experience creating visually-rich, interactive visualizations and games through my double-major in Game Design and Development, using APIs at varying levels of abstraction, such as shape-drawing libraries and scene graph frameworks. Furthermore, I took two Software Engineering electives, one about object-oriented design patterns and one about the Alloy and SPIN formal methods tools, a background I look forward to extending to enterprise architectures, concurrent and distributed applications, and other forms of software.
 
-I also like explaining computer programming concepts to others, both through one-on-one conversations and through written explanations. This ranges from teaching well-known content to presenting ideas that I think of myself. Given all this, I am also open to positions such as technical writer or instructor, as well as positions involving studying and documenting computing systems, such as large codebases. Samples of my technical writing can be found in the "Projects" section below.
+I also like explaining computer programming concepts to others, both through one-on-one conversations and through written explanations. This ranges from teaching well-known content to presenting ideas that I think of myself. Thus, I am also open to teaching positions, as well as roles grokking and documenting software systems. And in collaborative settings, I am able to expand upon others' ideas or present dissenting viewpoints, as shown by my LinkedIn comments in the Activity section below.
 
 ### Alternative Introduction
 
@@ -86,6 +86,10 @@ In some of the comments, I expressed disagreement with certain ideas he presente
 _[Original post](https://www.linkedin.com/feed/update/urn:li:activity:7194053165376237570/)_
 
 It's worth considering that leaders should be familiar with their employees' responsibilities in a different way than the employee themself is. It's less useful to learn how for-loops work than it is to, for example, observe how developers use their tools and processes at a high-level, something that the developer might not have consciously analyzed about themself. This knowledge is then used to help coordinate everyone with each other. The point of a leader as a distinct role is to take on a different responsibility than the other members of the team, which entails a different perspective.
+
+### All Comments
+
+For those with a LinkedIn account, the rest of my comments [can be found here](https://www.linkedin.com/in/yawarraza7349/recent-activity/comments/).
 
 ## Experience
 
