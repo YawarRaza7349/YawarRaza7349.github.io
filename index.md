@@ -2,7 +2,7 @@ Despite LinkedIn claiming to make public profiles visible to people without a Li
 
 Projects have been placed on [a separate page](https://YawarRaza7349.github.io/projects).
 
-I have also made my resume available to [view](https://docs.google.com/viewerng/viewer?url=https://YawarRaza7349.github.io/YawarRaza_Resume.pdf) or [download](https://YawarRaza7349.github.io/YawarRaza_Resume.pdf).
+I have also made my resume available to [view](https://docs.google.com/viewer?url=https://YawarRaza7349.github.io/YawarRaza_Resume.pdf) or [download](https://YawarRaza7349.github.io/YawarRaza_Resume.pdf).
 
 Feel free to contact me [on LinkedIn](https://linkedin.com/in/YawarRaza7349) or by email at YawarRaza7349@gmail.com.
 
