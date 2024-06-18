@@ -47,12 +47,12 @@ Jan 2018 - May 2018
 
 - Worked on translating the type soundness proof from a research paper into Coq so it can be machine-checked
 - Experimented with different encodings (lists, functions, etc.) to see which one was easiest to use in the proofs
-- [Project report](https://docs.google.com/viewerng/viewer?url=https://cs.rit.edu/~mtf/student-resources/20175_raza_mscourse.pdf)
+- [Project report](https://docs.google.com/viewer?url=https://cs.rit.edu/~mtf/student-resources/20175_raza_mscourse.pdf)
 - Slide decks of class presentations (targeted at a general computer science audience)
-  - [Project Description](https://docs.google.com/viewerng/viewer?url=https://YawarRaza7349.github.io/L3/YawarRaza_ProjectDescription_Slides.pdf)
-  - [Milestone 1](https://docs.google.com/viewerng/viewer?url=https://YawarRaza7349.github.io/L3/YawarRaza_Milestone1_Slides.pdf)
-  - [Milestone 2](https://docs.google.com/viewerng/viewer?url=https://YawarRaza7349.github.io/L3/YawarRaza_Milestone2_Slides.pdf)
-  - [Milestone 3](https://docs.google.com/viewerng/viewer?url=https://YawarRaza7349.github.io/L3/YawarRaza_Milestone3_Slides.pdf)
+  - [Project Description](https://docs.google.com/viewer?url=https://YawarRaza7349.github.io/L3/YawarRaza_ProjectDescription_Slides.pdf)
+  - [Milestone 1](https://docs.google.com/viewer?url=https://YawarRaza7349.github.io/L3/YawarRaza_Milestone1_Slides.pdf)
+  - [Milestone 2](https://docs.google.com/viewer?url=https://YawarRaza7349.github.io/L3/YawarRaza_Milestone2_Slides.pdf)
+  - [Milestone 3](https://docs.google.com/viewer?url=https://YawarRaza7349.github.io/L3/YawarRaza_Milestone3_Slides.pdf)
 
 ## Inverse Kinematics of a Stick Figure’s Limbs
 
