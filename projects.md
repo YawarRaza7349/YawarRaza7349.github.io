@@ -11,6 +11,8 @@ May 2024 - June 2024
 - Added more user control over the app, including animation speed, and took accessibility and responsiveness into account
 - Preprocessed the raw data ahead of time using a C++ program, eliminating redundant computations that the original version did in every run
 - Made use of recursive templates, avoiding an instance of code duplication, and implemented a JSON serializer having an imperative interface
+- [Try it out yourself](https://YawarRaza7349.github.io/RevengeOfTheCyclicCicadas)
+- [GitHub repository](https://github.com/YawarRaza7349/RevengeOfTheCyclicCicadas)
 
 ## Proofs About Particular Programs (Work in Progress)
 
