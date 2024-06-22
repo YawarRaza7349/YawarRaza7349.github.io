@@ -4,7 +4,7 @@ This page is a copy of the Projects section of my LinkedIn profile. The other se
 
 ## Revenge of the Cyclic Cicadas
 
-May 2024 - June 2024  
+May 2024 - Jun 2024  
 (C++ and HTML/CSS/JavaScript; solo)
 
 - Reimplemented an old animated data visualization of cicada populations across U.S. states as a modern web app
