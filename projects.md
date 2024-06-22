@@ -2,6 +2,16 @@ This page is a copy of the Projects section of my LinkedIn profile. The other se
 
 # Projects
 
+## Revenge of the Cyclic Cicadas
+
+May 2024 - June 2024  
+(C++ and HTML/CSS/JavaScript; solo)
+
+- Reimplemented an old animated data visualization of cicada populations across U.S. states as a modern web app
+- Added more user control over the app, including animation speed, and took accessibility and responsiveness into account
+- Preprocessed the raw data ahead of time using a C++ program, eliminating redundant computations that the original version did in every run
+- Made use of recursive templates, avoiding an instance of code duplication, and implemented a JSON serializer having an imperative interface
+
 ## Proofs About Particular Programs (Work in Progress)
 
 Dec 2023 - Mar 2024  
