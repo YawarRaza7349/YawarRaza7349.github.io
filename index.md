@@ -53,43 +53,23 @@ I know I wouldn't be jumping into such endeavors in the near future, but it's an
 
 </details>
 
-## Activity
+## Contributions
 
-_Posts modified slightly from the originals on LinkedIn by including the external links as in-line text and correspondingly adjusting the text._
+### Here's how you can foster cutting-edge programming languages and frameworks through creativity.
 
-### Post
+Making a variable private in Dart is not done with a "private" keyword, like it is in Java and other languages, but by starting the variable name with an underscore. Several people have complained about this at [https://github.com/dart-lang/sdk/issues/33383](https://github.com/dart-lang/sdk/issues/33383). Nevertheless, Dart won't be appeasing these people, having (interesting!) technical reasons for why the underscore is needed. Thus, if you want to use Dart, you'll need to get used to not having the "private" keyword. Sometimes, these deviations from existing approaches are improvements, and you can learn about the advantages they bring. Other times they're arbitrary decisions you just have to get used to. Being flexible with syntax opens you up to more languages and new features to try.
 
-The RIT course I took about design patterns also had a unit on refactoring, another important part of making your code clearly organized. I'm reminded of a Code Review Stack Exchange answer I wrote years ago, [[linked here]](https://codereview.stackexchange.com/a/161948). While this question was asked by a novice, professional codebases can also see similar redundancy arise as code evolves over time. Such code can be confusing to read, and is best carefully assessed and refactored to remove the residual parts. Have you ever seen code like this, leftover after many changes, in the codebases you've worked in? What did you do about it and how did it turn out?
+### How would you address misconceptions about programming languages during a project meeting?
 
-\#Refactoring #Postconditions #LegacyCode
+Actually, "some languages are better suited for certain tasks than others" is the real myth. The differences languages have are mostly about personal preference (e.g. static typing) instead of task requirements. The only real exception I can think of off the top of my head is whether a language supports manual memory management (C, C++, Rust, etc.). The actual relevant factor is whether frameworks and libraries to implement the thing you're trying to do have been written for the language, which isn't an inherent characteristic of the language, but is more about happenstance, and can change over time. Dart wasn't used for mobile dev nearly as much before Flutter. If Swift gets better Linux support, it could be used to write web servers.
 
-### Post
+### How would you address misconceptions about programming languages during a project meeting?
 
-Back when I was in college, I remember seeing the "Object" documentation page for the Reason programming language and thinking it could use some improvement. I had planned to draft a full rewrite of the page to show the Reason team, but never ended up getting to it.
+This section is partly wrong! "Scripting" languages are a subset of programming languages, not a separate category. And "scripting language" has a fuzzy definition — Bash is definitely a scripting language, but is Python? If so, what about Scala? Really, though, it's not actually important to classify languages as "scripting" or not. Instead, discuss the specific task at hand you want to write a script to do, then determine whether the language in question is appropriate for that task.
 
-Recently, I thought to check if anyone else had fixed up the page, only to find it the same as it was almost a decade earlier. Rather than contemplate the broad overhaul I'd imagined, I decided to just submit a pull request addressing the biggest issue on the page, which you can check out in [[this link]](https://github.com/reasonml/reasonml.github.io/pull/768).
+### Here's how you can overcome challenges when adapting to new programming languages.
 
-It goes to show that even if you think someone else will surely get to that thing you noticed, sometimes they won't, and it's best to point it out yourself and work on whatever you can, even if it's not much. Have you ever taken the initiative to address an overlooked problem? How did you approach the situation and what did you learn from it?
-
-\#ReasonML #Documentation #Polymorphism
-
-### Post
-
-It's exciting having a prominent computer scientist giving "thumbs-up" to several of your comments to his blog posts. While a lot of the blog covers topics that are newer to me, there were places where my background allowed me to add to some of the points he made. You can read all the comments I posted on his blog through [[this link]](https://github.com/search?q=commenter%3AYawarRaza7349%20repo%3Alawrencecpaulson%2Flawrencecpaulson.github.io&type=issues).
-
-In some of the comments, I expressed disagreement with certain ideas he presented in his posts. Have you ever found yourself disagreeing with an expert in your craft? Did either of you end up changing your mind in the long run?
-
-\#Isabelle #DependentTypes #FormalMethods
-
-### Comment
-
-_[Original post](https://www.linkedin.com/feed/update/urn:li:activity:7194053165376237570/)_
-
-It's worth considering that leaders should be familiar with their employees' responsibilities in a different way than the employee themself is. It's less useful to learn how for-loops work than it is to, for example, observe how developers use their tools and processes at a high-level, something that the developer might not have consciously analyzed about themself. This knowledge is then used to help coordinate everyone with each other. The point of a leader as a distinct role is to take on a different responsibility than the other members of the team, which entails a different perspective.
-
-### All Comments
-
-_For those with a LinkedIn account, the rest of my comments [can be found here](https://www.linkedin.com/in/yawarraza7349/recent-activity/comments/)._
+Programming languages are mostly the same as each other in terms of language features, especially more modern languages like Kotlin and Swift. For example, Kotlin's data class and Swift's enum with associated values are the same feature, which is also in many other languages. The bigger differences that you'll need to spend more time on are the frameworks, libraries, and tooling (e.g. the build system) of the new language. These are also typically similar, but there are many more small differences here than in the language itself, like the names of library functions. If you're learning a new language to use a specific framework, learning to use the framework will be more important than learning every single feature of the language itself.
 
 ## Experience
 
